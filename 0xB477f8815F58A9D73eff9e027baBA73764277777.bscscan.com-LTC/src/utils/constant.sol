@@ -1,0 +1,10 @@
+// SPDX-License-Identifier: MIT
+pragma solidity >=0.8.17;
+
+address constant _USDT = 0x55d398326f99059fF775485246999027B3197955;
+address constant _ROUTER = 0x10ED43C718714eb63d5aA57B78B54704E256024E;
+address constant _FACTORY = 0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73;
+
+address constant _ROOT = 0xA0f496219A85534586A2E19dF2Eb1A35DED4d259;
+
+uint8 constant MAX_LOOP = 40;
